@@ -104,6 +104,9 @@ export default function App() {
           { id: 7, name: 'Fancy French Cheese 🇫🇷', price: 99, stock: 12 },
         ]}
       />
+        <div className='button'>       
+            <a href="https://zhar04.github.io/dynamictables">Search and Filtering fetching Json from APi</a>
+        </div>
     </div>
   );
 }
