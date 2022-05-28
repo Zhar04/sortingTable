@@ -46,12 +46,7 @@ const ProductTable = (props) => {
   return (
     <table>
       <caption>Products</caption>
-<button 
-type="button"
-onClick={"location.href='https://zhar04.github.io/dynamictables';"}
->
-    Sorting Table
-    </button>      
+  
     <thead>
         <tr>
           <th>
@@ -62,6 +57,12 @@ onClick={"location.href='https://zhar04.github.io/dynamictables';"}
             >
               Name
             </button>
+            <button 
+type="button"
+onClick={"location.href='https://zhar04.github.io/dynamictables';"}
+>
+    Sorting Table
+    </button>    
           </th>
           <th>
             <button
