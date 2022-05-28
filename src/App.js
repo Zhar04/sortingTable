@@ -55,14 +55,9 @@ const ProductTable = (props) => {
               onClick={() => requestSort('name')}
               className={getClassNamesFor('name')}
             >
-              Name
+              Nameee
             </button>
-            <button 
-type="button"
-onClick={"location.href='https://zhar04.github.io/dynamictables';"}
->
-    Sorting Table
-    </button>    
+            
           </th>
           <th>
             <button
