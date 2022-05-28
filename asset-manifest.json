@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sortingTable/static/css/main.0086175d.chunk.css",
+    "main.js": "/sortingTable/static/js/main.c3e4d356.chunk.js",
+    "main.js.map": "/sortingTable/static/js/main.c3e4d356.chunk.js.map",
+    "runtime~main.js": "/sortingTable/static/js/runtime~main.e370da4c.js",
+    "runtime~main.js.map": "/sortingTable/static/js/runtime~main.e370da4c.js.map",
+    "static/js/2.497f34ea.chunk.js": "/sortingTable/static/js/2.497f34ea.chunk.js",
+    "static/js/2.497f34ea.chunk.js.map": "/sortingTable/static/js/2.497f34ea.chunk.js.map",
+    "index.html": "/sortingTable/index.html",
+    "precache-manifest.38fdf4263420e7985bde1623f7235d15.js": "/sortingTable/precache-manifest.38fdf4263420e7985bde1623f7235d15.js",
+    "service-worker.js": "/sortingTable/service-worker.js",
+    "static/css/main.0086175d.chunk.css.map": "/sortingTable/static/css/main.0086175d.chunk.css.map"
+  }
+}
