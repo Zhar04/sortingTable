@@ -46,6 +46,7 @@ const ProductTable = (props) => {
   return (
     <table>
       <caption>Products</caption>
+      <input type="button" onclick="location.href='https://zhar04.github.io/dynamictables';" value="Push to see Sorting Feature implemented without API fetch" />
       <thead>
         <tr>
           <th>
@@ -104,9 +105,7 @@ export default function App() {
           { id: 7, name: 'Fancy French Cheese 🇫🇷', price: 99, stock: 12 },
         ]}
       />
-        <div className='button'>       
-            <a href="https://zhar04.github.io/dynamictables">Search and Filtering fetching Json from APi</a>
-        </div>
+       
     </div>
   );
 }
